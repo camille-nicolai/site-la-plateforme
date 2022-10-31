@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    background-color: white;
+}
+header{
+    display: flex;
+    margin: auto;
+    background-color: white;
+    height: 90px;
+    justify-content: space-between;
+
+}
+
+
+
+
+section{
+    border-color: rgb(210, 17, 17); 
+    border-color: aqua;
+    border-style: outset;
+    border-width: 3px;
+
+
+}
+footer{
+    background-color: rgb(229, 65, 65);
+    border-color: blue;
+    border-block-color: blue;
+    border-width: 12px;
+
+
+}
